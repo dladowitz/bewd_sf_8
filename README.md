@@ -17,7 +17,7 @@ Read the [Installation Instructions](INSTALL.md) for guidance on installing the 
 
 ##How Do I Submit Homework?
 
-Go to the [homework repository](https://github.com/ga-students/BEWD_SF_5_homework) and follow the instructions there.
+Go to the [homework repository](https://github.com/ga-students/BEWD_SF_8_homework) and follow the instructions there.
 
 ###What's in a lesson folder?
 
