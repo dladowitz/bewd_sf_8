@@ -98,6 +98,7 @@ building = create_building
 
 # Get the number of units in the building
 building_unit_count = ask_user "How many units are in this building?"
+building_unit_count = building_unit_count.to_i
 
 # Now we want to iterate for all apartment units and gather information about them from the reatlor
 building_unit_count.times do |unit|
